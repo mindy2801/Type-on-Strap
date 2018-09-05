@@ -2,13 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+subtitle: "Min, Dayeong"
 feature-img: "assets/img/pexels/circuit.jpeg"
-tags: [About, Archive]
+tags: []
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Dayeong Min is a first-year graduate student in the CCS Lab from Sep 1, 2018. She graduated from Korea University with bachelors degrees in Psychology and Statistics. She is interested in developing quantitative assessment tools that can be used to evaluate psychiatric disorders. In the CCS Lab, she hopes to acquire computational skills and apply them to a wide set of research questions.
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
  

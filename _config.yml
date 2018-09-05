@@ -9,16 +9,19 @@ description: "A website with blog posts and pages" # used by search engines
 theme_settings:
   # Meta
   title: Min's blog # blog's title
-  avatar: assets/img/triangle.svg # path of avatar image, to be displayed in the theme's header
+  avatar: assets/img/tulip.svg # path of avatar image, to be displayed in the theme's header
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
   header_text: >  #two or three lines to describe your site
      <p>Welcome to Mindy's page</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+  header_text_feature_image: assets/img/flora.png
   footer_text: >
+   Graphics by <a href="https://www.Vecteezy.com/">vecteezy.com</a>
+   >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+   
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout

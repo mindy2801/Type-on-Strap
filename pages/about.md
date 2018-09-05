@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 subtitle: "Min, Dayeong"
-feature-img: "assets/img/pexels/circuit.jpeg"
+feature-img: "assets/img/bird.png"
 tags: []
 ---
 

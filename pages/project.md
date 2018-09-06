@@ -1,9 +1,9 @@
 --- 
 layout: page
-title : Portfolio 
+title : Project
 permalink: /portfolio/
 subtitle: "Projects I am working on" 
-feature-img: "assets/img/rose.png"
+feature-img: "assets/img/flora.png"
 tags: []
 ---
 

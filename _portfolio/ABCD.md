@@ -7,4 +7,4 @@ date: 27 September 2015
 tags: [Portfolio]
 ---
 
-ABCD project
+* Analyzing MID-related fMRI data

@@ -8,4 +8,4 @@ tags: [Portfolio]
 
 ![image]({{ site.baseurl }}/{{ page.img }})
 
-WCST project
+* Write hierarchical Bayesian modeling codes for sequential learning model of WCST in hBayesDM R package

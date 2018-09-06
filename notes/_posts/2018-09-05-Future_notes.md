@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Sample post
+title: Future Notes
 tags: [Test]
 excerpt_separator: <!--more-->
 ---
 
-Working on the page...
+Working on the page... Minor notes would be posted
 <!--more-->
 Hi!
 
